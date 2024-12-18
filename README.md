@@ -1,2 +1,0 @@
-# PTCSC.Example
-example
